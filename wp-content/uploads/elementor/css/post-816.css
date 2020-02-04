@@ -1,1 +1,29 @@
-.elementor-816 .elementor-element.elementor-element-29a5673 .elementor-tab-title, .elementor-816 .elementor-element.elementor-element-29a5673 .elementor-tab-title:before, .elementor-816 .elementor-element.elementor-element-29a5673 .elementor-tab-title:after, .elementor-816 .elementor-element.elementor-element-29a5673 .elementor-tab-content, .elementor-816 .elementor-element.elementor-element-29a5673 .elementor-tabs-content-wrapper{border-width:1px;}.elementor-816 .elementor-element.elementor-element-29a5673 .elementor-tab-title{color:#009385;font-family:"DIN Pro", Sans-serif;font-size:15px;}.elementor-816 .elementor-element.elementor-element-29a5673 .elementor-tab-title.elementor-active{color:#CBBC80;}.elementor-816 .elementor-element.elementor-element-29a5673 .elementor-tab-content{color:#54595F;font-family:"DIN Pro", Sans-serif;font-size:14px;font-weight:500;}
+.elementor-816 .elementor-element.elementor-element-30dc5da:not(.elementor-motion-effects-element-type-background), .elementor-816 .elementor-element.elementor-element-30dc5da > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#009385;}.elementor-816 .elementor-element.elementor-element-30dc5da{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-816 .elementor-element.elementor-element-30dc5da > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-816 .elementor-element.elementor-element-4c00caa{text-align:left;}.elementor-816 .elementor-element.elementor-element-4c00caa.elementor-widget-heading .elementor-heading-title{color:#FFFFFF;}.elementor-816 .elementor-element.elementor-element-4c00caa .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:15px;}.elementor-816 .elementor-element.elementor-element-68b2828.elementor-widget-heading .elementor-heading-title{color:#54595F;}.elementor-816 .elementor-element.elementor-element-68b2828 .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:15px;}.elementor-816 .elementor-element.elementor-element-2f51ff7.elementor-widget-heading .elementor-heading-title{color:#54595F;}.elementor-816 .elementor-element.elementor-element-2f51ff7 .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:15px;}.elementor-816 .elementor-element.elementor-element-9f7720f.elementor-widget-heading .elementor-heading-title{color:#54595F;}.elementor-816 .elementor-element.elementor-element-9f7720f .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:15px;}.elementor-816 .elementor-element.elementor-element-e88b25e:not(.elementor-motion-effects-element-type-background), .elementor-816 .elementor-element.elementor-element-e88b25e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#009385;}.elementor-816 .elementor-element.elementor-element-e88b25e{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-816 .elementor-element.elementor-element-e88b25e > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-816 .elementor-element.elementor-element-b2a6b30{text-align:left;}.elementor-816 .elementor-element.elementor-element-b2a6b30.elementor-widget-heading .elementor-heading-title{color:#FFFFFF;}.elementor-816 .elementor-element.elementor-element-b2a6b30 .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:15px;}.elementor-816 .elementor-element.elementor-element-4ac4d7f.elementor-widget-heading .elementor-heading-title{color:#54595F;}.elementor-816 .elementor-element.elementor-element-4ac4d7f .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:15px;}.elementor-816 .elementor-element.elementor-element-902bfe3:not(.elementor-motion-effects-element-type-background), .elementor-816 .elementor-element.elementor-element-902bfe3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#009385;}.elementor-816 .elementor-element.elementor-element-902bfe3{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-816 .elementor-element.elementor-element-902bfe3 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-816 .elementor-element.elementor-element-288e675{text-align:left;}.elementor-816 .elementor-element.elementor-element-288e675.elementor-widget-heading .elementor-heading-title{color:#FFFFFF;}.elementor-816 .elementor-element.elementor-element-288e675 .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:15px;}.elementor-816 .elementor-element.elementor-element-997e183.elementor-widget-heading .elementor-heading-title{color:#54595F;}.elementor-816 .elementor-element.elementor-element-997e183 .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:15px;}.elementor-816 .elementor-element.elementor-element-fad5798.elementor-widget-heading .elementor-heading-title{color:#54595F;}.elementor-816 .elementor-element.elementor-element-fad5798 .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:15px;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'DIN Pro';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/wordpress/wp-content/uploads/2020/01/DINPro-Medium_13936.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'DIN Pro';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('http://localhost/wordpress/wp-content/uploads/2020/01/FontsFree-Net-DINPro-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'DIN Pro';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://localhost/wordpress/wp-content/uploads/2020/01/DINPro-Regular_13937.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'DIN Pro';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/wordpress/wp-content/uploads/2020/01/DINRegularItalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
