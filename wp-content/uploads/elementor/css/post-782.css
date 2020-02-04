@@ -1,0 +1,29 @@
+.elementor-782 .elementor-element.elementor-element-f6e6403{text-align:center;}.elementor-782 .elementor-element.elementor-element-f6e6403.elementor-widget-heading .elementor-heading-title{color:#54595F;}.elementor-782 .elementor-element.elementor-element-f6e6403 .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:14px;}.elementor-782 .elementor-element.elementor-element-e4134d5{text-align:center;}.elementor-782 .elementor-element.elementor-element-e4134d5.elementor-widget-heading .elementor-heading-title{color:#54595F;}.elementor-782 .elementor-element.elementor-element-e4134d5 .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:14px;}.elementor-782 .elementor-element.elementor-element-cbb0b28{text-align:center;}.elementor-782 .elementor-element.elementor-element-cbb0b28.elementor-widget-heading .elementor-heading-title{color:#54595F;}.elementor-782 .elementor-element.elementor-element-cbb0b28 .elementor-heading-title{font-family:"DIN Pro", Sans-serif;font-size:14px;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'DIN Pro';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/wordpress/wp-content/uploads/2020/01/DINPro-Medium_13936.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'DIN Pro';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('http://localhost/wordpress/wp-content/uploads/2020/01/FontsFree-Net-DINPro-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'DIN Pro';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://localhost/wordpress/wp-content/uploads/2020/01/DINPro-Regular_13937.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'DIN Pro';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/wordpress/wp-content/uploads/2020/01/DINRegularItalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
