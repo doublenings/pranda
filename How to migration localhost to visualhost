@@ -1,1 +1,16 @@
+How to migration localhost to visualhost in wamp server
+-------localhost--------
+1. Go to run wamp server on localhost -> port:80
+2. download plugin "All-in-One WP Migration" 
+3. Select tools is "Export"
+   3.1 Export File in  All-in-One WP Migration and have file
 
+------visualhost in another localhost-------
+example : localhost change visualhost in comp19 (in organization pranda jewelry)
+1. Go to comp19/ 
+2. download plugin "All-in-One WP Migration"
+3. Select tools is "Import"
+  3.1 Import File in All-in-One WP Migration 
+  3.2 Settings Paralink Structure in http://localhost/..... change in http://comp19/....
+  
+Note : Export and Import in phpmyadmin 
