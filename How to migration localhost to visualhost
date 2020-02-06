@@ -13,4 +13,4 @@ example : localhost change visualhost in comp19 (in organization pranda jewelry)
   3.1 Import File in All-in-One WP Migration 
   3.2 Settings Paralink Structure in http://localhost/..... change in http://comp19/....
   
-Note : Export and Import in phpmyadmin 
+Note : Export and Import sql file in phpmyadmin 
